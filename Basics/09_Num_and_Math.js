@@ -29,3 +29,15 @@ console.log(Math);
 console.log(Math.abs(-4)); //Negative convert into positive
 
 console.log(Math.round(4.6));
+
+
+//Math.random
+console.log(Math.random());
+
+console.log((Math.random()*10) + 1);
+console.log((Math.random()*10) + 1);
+
+const min = 10
+const max = 20
+
+Math.random()
