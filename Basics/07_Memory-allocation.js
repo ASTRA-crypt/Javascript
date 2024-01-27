@@ -1,7 +1,7 @@
 // Memory working on javascript
 
 /*merory are two type:
-1.Stack -- primitivw=e type
+1.Stack -- primitive type
 2.Heap  -- Non-premitive type
 
 
